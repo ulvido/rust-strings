@@ -32,14 +32,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.6669153"
-     inkscape:cx="135.69939"
-     inkscape:cy="587.78079"
+     inkscape:cx="414.59538"
+     inkscape:cy="577.2847"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" /><defs
+     inkscape:current-layer="node1-69-3" /><defs
      id="defs190" /><g
      inkscape:groupmode="layer"
      id="layer3"
@@ -899,15 +899,15 @@
        transform="matrix(0.63981317,0,0,0.63981317,16.910127,-40.159412)"><tspan
          x="108.84506"
          y="-109.50378"
-         id="tspan1727"><tspan
+         id="tspan981"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Averia Sans Libre, Bold';text-align:center;text-anchor:middle"
-           id="tspan1725">&amp;str point ettigi value 
+           id="tspan979">&amp;str point ettigi value 
 </tspan></tspan><tspan
          x="108.84506"
          y="-104.5802"
-         id="tspan1731"><tspan
+         id="tspan985"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Averia Sans Libre, Bold';text-align:center;text-anchor:middle"
-           id="tspan1729">3 yerden birinde olabilir:</tspan></tspan></text><text
+           id="tspan983">3 yerden birinde olabilir:</tspan></tspan></text><text
        xml:space="preserve"
        style="font-size:2.07821px;line-height:1.25;font-family:'Averia Sans Libre';-inkscape-font-specification:'Averia Sans Libre';fill:#4d4d4d;stroke-width:0.0519552"
        x="40.669827"
@@ -926,13 +926,13 @@
          points="16,-121 88,-121 "
          id="polyline8-7-7" /><text
          text-anchor="start"
-         x="22.539398"
+         x="25.554085"
          y="-125.73808"
          font-family="Times, serif"
          font-size="8.45567px"
          fill="#000000"
          id="text10-4-5"
-         style="stroke-width:0.603976">s_thumbs_up</text><polygon
+         style="stroke-width:0.603976">thumbs_up</text><polygon
          fill="none"
          stroke="#000000"
          points="16,-121 52,-121 52,-101 16,-101 "
@@ -1254,19 +1254,19 @@
        transform="matrix(0.26828345,0,0,0.26828345,1.2429576,-205.15171)"><tspan
          x="21.24905"
          y="231.82536"
-         id="tspan1733">
+         id="tspan987">
 </tspan><tspan
          x="21.24905"
          y="243.44486"
-         id="tspan1737"><tspan
+         id="tspan991"><tspan
    style="fill:#4d4d4d"
-   id="tspan1735">// greeting: &amp;'static str</tspan>
+   id="tspan989">// greeting: &amp;'static str</tspan>
 </tspan><tspan
          x="21.24905"
          y="255.06435"
-         id="tspan1741"><tspan
+         id="tspan995"><tspan
    style="fill:#000000"
-   id="tspan1739">let greeting = &quot;Hi.&quot;; </tspan>
+   id="tspan993">let greeting = &quot;Hi.&quot;; </tspan>
 </tspan></text><path
        style="fill:#911a34;stroke:#911a34;stroke-width:0.30832727;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-dasharray:none"
        d="m 2.7402087,-154.16757 c 23.6783823,0 47.3566973,0 71.0349453,0"
@@ -1282,25 +1282,25 @@
        transform="matrix(0.26828345,0,0,0.26828345,-2.4949575,-187.90105)"><tspan
          x="21.24905"
          y="231.82536"
-         id="tspan1744">
+         id="tspan997">
 </tspan><tspan
          x="21.24905"
          y="243.44486"
-         id="tspan1752"><tspan
+         id="tspan1005"><tspan
            style="fill:#000000"
-           id="tspan1746">let bytes_arr : [u8; 4] = [240, 159, 145, 141]; </tspan><tspan
+           id="tspan999">let bytes_arr : [u8; 4] = [240, 159, 145, 141]; </tspan><tspan
            style="fill:#4d4d4d"
-           id="tspan1748">// stack'ta</tspan><tspan
+           id="tspan1001">// stack'ta</tspan><tspan
            style="fill:#000000"
-           id="tspan1750">
+           id="tspan1003">
 </tspan></tspan><tspan
          x="21.24905"
          y="255.06435"
-         id="tspan1758"><tspan
+         id="tspan1011"><tspan
    style="fill:#000000"
-   id="tspan1754">let thumbs_up = str::from_utf8(&amp;bytes_arr).unwrap(); </tspan><tspan
+   id="tspan1007">let thumbs_up = str::from_utf8(&amp;bytes_arr).unwrap(); </tspan><tspan
    style="fill:#4d4d4d"
-   id="tspan1756">// stack'ta</tspan>
+   id="tspan1009">// stack'ta</tspan>
 </tspan></text><g
        id="g1741"
        class="node"
@@ -1474,9 +1474,9 @@
        transform="matrix(0.7198196,0,0,0.7198196,6.253495,-23.305233)"><tspan
          x="108.84506"
          y="-109.50378"
-         id="tspan1762"><tspan
+         id="tspan1015"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan1760">HEAP</tspan></tspan></text><text
+           id="tspan1013">HEAP</tspan></tspan></text><text
        xml:space="preserve"
        style="font-size:3.93886px;line-height:1.25;font-family:'Averia Sans Libre';-inkscape-font-specification:'Averia Sans Libre';white-space:pre;inline-size:48.4047;display:inline;stroke-width:0.0519549"
        x="108.84506"
@@ -1485,9 +1485,9 @@
        transform="matrix(0.7198196,0,0,0.7198196,6.2309112,-19.031639)"><tspan
          x="108.84506"
          y="-109.50378"
-         id="tspan1766"><tspan
+         id="tspan1019"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan1764">BINARY(DATA)</tspan></tspan></text><text
+           id="tspan1017">BINARY(DATA)</tspan></tspan></text><text
        xml:space="preserve"
        style="font-size:3.93886px;line-height:1.25;font-family:'Averia Sans Libre';-inkscape-font-specification:'Averia Sans Libre';white-space:pre;inline-size:48.4047;display:inline;stroke-width:0.0519549"
        x="108.84506"
@@ -1496,9 +1496,9 @@
        transform="matrix(0.7198196,0,0,0.7198196,6.253495,-14.986923)"><tspan
          x="108.84506"
          y="-109.50378"
-         id="tspan1770"><tspan
+         id="tspan1023"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan1768">STACK</tspan></tspan></text><image
+           id="tspan1021">STACK</tspan></tspan></text><image
        width="4.3990483"
        height="4.3990483"
        preserveAspectRatio="none"
